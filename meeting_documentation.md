@@ -4,6 +4,7 @@ Every monday at 7 we have our F2F teammeeting, which is also broadcasted via a H
 You can see the agenda, the hangout link and the recordings in the links below. 
 
 Here you can check out the dates, the location and the documentation of our Face2Face Meetings
+ - [22.08.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-22-08-16) @OkLab Hacknight @Wikimedia 7pm 
  - [15.08.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-15-08-16) @OkLab Hacknight @Wikimedia 7pm
  - [08.08.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-08-08-16) @OkLab Hacknight @Wikimedia 7pm
  - [01.08.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-01-08-16) @OkLab Hacknight @Wikimedia 7pm
