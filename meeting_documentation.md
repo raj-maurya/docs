@@ -5,10 +5,11 @@ You can see the agenda, the hangout link and the recordings in the links below.
 
 Here you can check out the dates, the location and the documentation of our Face2Face Meetings
 ## Upcoming
- - [19.09.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-19-09-16) @OkLab Hacknight @Wikimedia 7pm
+ - [26.09.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-26-09-16) @OkLab Hacknight @Wikimedia 7pm
 
 <br> 
 ## Past 
+ - [19.09.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-19-09-16) @OkLab Hacknight @Wikimedia 7pm
  - [12.09.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-12-09-16) @OkLab Hacknight @Wikimedia 7pm
  - [05.09.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-05-09-16) @OkLab Hacknight @Wikimedia 7pm 
  - [29.08.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-29-08-16) @OkLab Hacknight @Wikimedia 7pm 
