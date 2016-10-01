@@ -28,6 +28,7 @@ Here you can check out the dates, the location and the documentation of our Face
 
 Finding a date for the next one: http://doodle.com/poll/xu2sqsn9b97nibkr
 
+ - [01.10.2016](https://public.etherpad-mozilla.org/p/WorldBrain_Meeting_29_09_16)
  - [22.07.2016](https://public.etherpad-mozilla.org/p/WorldBrain_Team_Meeting_3) 
  - [09.07.2016](https://public.etherpad-mozilla.org/p/WorldBrain_Team_Meeting_2) 
  - [02.07.2016](https://public.etherpad-mozilla.org/p/WorldBrain_Team_Meeting_1) 
