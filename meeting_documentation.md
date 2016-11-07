@@ -9,6 +9,10 @@ Here you can check out the dates, the location and the documentation of our Face
 
 <br> 
 ## Past 
+ - [07.11.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-10-10-16) @OkLab Hacknight @Wikimedia 7pm
+ - [01.11.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-01-11-16) @OkLab Hacknight @Wikimedia 7pm
+ - [24.10.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-24-10-16) @OkLab Hacknight @Wikimedia 7pm
+ - [17.10.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-17-10-16) @OkLab Hacknight @Wikimedia 7pm
  - [10.10.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-10-10-16) @OkLab Hacknight @Wikimedia 7pm
  - [03.10.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-03-10-16) @OkLab Hacknight @Wikimedia 7pm
  - [26.09.2016](https://public.etherpad-mozilla.org/p/WorldBrain-Hacknight-26-09-16) @OkLab Hacknight @Wikimedia 7pm
